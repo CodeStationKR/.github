@@ -1,10 +1,5 @@
 # CodeStation 🚀
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+## 팀 소개
+저희는 개발외주 스타트업 "팀 코드스테이션"입니다.
+10년차 이상 시니어 개발자 CTO 2명, 6년차 미드 개발자 1명, 6년차 UI/UX 디자이너 1명으로 이루어진 팀입니다.
